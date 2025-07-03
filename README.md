@@ -30,9 +30,9 @@ O sistema monitora:
 ## Interface
 
 Menu interativo com joystick e botões. O LED RGB reflete a qualidade do ar:
-- Verde: Boa
+- Verde: Excelente ou Bom
 - Amarelo: Moderada
-- Vermelho: Ruim ou Péssima
+- Vermelho: Péssima
 
 ## Estrutura do Código
 
